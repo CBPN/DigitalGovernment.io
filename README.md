@@ -1,2 +1,2 @@
 # DigitalGovernment.io
-Digital Government
+Open source best practices for Digital Government.
